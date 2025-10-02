@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DO_SEU_GIF_AQUI" alt="Banner animado com um jogo ou cena relaxante" width="100%"/>
+  <img src="https://i.pinimg.com/originals/31/0c/7e/310c7e9c126f5e763bad7a528037ae73.gif" alt="Banner animado com um jogo ou cena relaxante" width="100%"/>
 </p>
 
 <h1 align="center">Olá, eu sou o Victor! 👋</h1>
@@ -17,7 +17,6 @@
   <br><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
@@ -47,13 +46,13 @@
 
 <h3 align="center">📊 Estatísticas da Minha Jornada</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-AQUI&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorNere&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNere&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
 </p>
 
 <h3 align="center">📫 Onde me Encontrar</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="blank">
+  <a href="https://linkedin.com/in/victorgustavosantin" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
