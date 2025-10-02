@@ -6,7 +6,7 @@
 
 <p align="center">
   De dia, eu trabalho e ajudo a pagar os boletos. Mas quando a noite chega, meu hobby é um só:<br>
-  transformar uma boa xícara de café ☕ em algumas linhas de código para relaxar e criar algo novo.
+  transformar uma boa xícara de café ☕ em momentos de Gameplay e códigos para relaxar!!
 </p>
 
 <br>
